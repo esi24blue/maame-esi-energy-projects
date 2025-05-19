@@ -6,7 +6,7 @@ This research explores how Africa can balance energy development and climate com
 
 
 
-📄 [Download Report](./Future_Africa_Policy_Portfolio.pdf)
+📄 [Download Report](https://github.com/esi24blue/maame-esi-energy-projects/blob/main/Global%20Energy%20Transition%20Dissertation%20.pdf)
 
 
 ## 🔹 2. Future Africa Policy Portfolio
