@@ -13,7 +13,7 @@ This research explores how Africa can balance energy development and climate com
 Title: Uganda's Oil & Gas Management 
 A strategic proposal developed with international fellow to strengthen Uganda’s energy governance and align with SDGs.
 
-📄 [View Abstract](./Energy_Transition_Dissertation_Abstract.pdf)
+📄 [View document](https://github.com/esi24blue/maame-esi-energy-projects/blob/main/Natural%20Resource%20Management_%20UGANDA.pdf))
 
 ## 🔹 3. Coming Soon
 - Solar PV system design concepts
