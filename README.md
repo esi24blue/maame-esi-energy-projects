@@ -3,7 +3,7 @@ Welcome! This portfolio highlights selected works in energy systems, policy deve
 As a legal and energy professional, my focus spans climate policy, renewable systems, ESG, and the African energy transition.
 
 ---
-## 🔹 1. Dissertation Abstract
+## 🔹 1. Dissertation 
 Title: The Global Energy Transition in African: The Good, Bad & African Perspective  
 This research explores how Africa can balance energy development and climate commitments amid a global transition.
 
@@ -25,4 +25,4 @@ A strategic proposal developed with international fellow to strengthen Uganda’
 ---
 ## 📫 Contact
 - Email: abamfonkrumahmaameesi@gmail.com
-- LinkedIn:[ ](http://linkedin.com/in/maame-esi-nkrumah-abamfo)
+- LinkedIn:[ http://linkedin.com/in/maame-esi-nkrumah-abamfo]
