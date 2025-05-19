@@ -1,6 +1,9 @@
 # Maame Esi Nkrumah Abamfo — Renewable Energy & Policy Portfolio
 Welcome! This portfolio highlights selected works in energy systems, policy development, and sustainability. 
-As a legal and energy professional, my focus spans climate policy, renewable systems, ESG, and the African energy transition.
+
+## 📌 About Me  
+I am Maame Esi Nkrumah Abamfo — a climate advocate, legal researcher, and renewable energy enthusiast with experience in child advocacy, sustainability education, and community energy projects. 
+My work bridges law, energy access, AI, climate policy and environmental justice, with a special focus on Ghana and the African continent.
 
 ---
 ## 🔹 1. Dissertation 
